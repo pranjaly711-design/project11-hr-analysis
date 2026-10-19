@@ -50,3 +50,8 @@ Lower job-level employees demonstrate increased attrition.
 Dashboard Overview
 
 Add Screenshot 1 Here
+https://github.com/pranjaly711-design/project11-hr-analysis/blob/main/123final.png
+
+Attrition Drivers & Insights
+
+Add Screenshot 2 Here
