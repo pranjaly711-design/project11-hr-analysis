@@ -55,3 +55,14 @@ https://github.com/pranjaly711-design/project11-hr-analysis/blob/main/123final.p
 Attrition Drivers & Insights
 
 Add Screenshot 2 Here
+https://github.com/pranjaly711-design/project11-hr-analysis/blob/main/246.png
+
+📈 Results
+
+Developed predictive models for employee attrition.
+Evaluated model performance using Accuracy Score and Confusion Matrix.
+Identified key business factors affecting employee retention.
+
+🚀 Conclusion
+
+The analysis revealed that salary, overtime, promotions, and employee experience play a significant role in attrition. Organizations can use these insights to improve employee retention and workforce planning.
